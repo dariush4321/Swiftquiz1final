@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1697A4982941CC4E00C98E0C /* Swiftquiz1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4972941CC4E00C98E0C /* Swiftquiz1App.swift */; };
 		1697A49A2941CC4E00C98E0C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4992941CC4E00C98E0C /* ContentView.swift */; };
 		1697A49C2941CC4F00C98E0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1697A49B2941CC4F00C98E0C /* Assets.xcassets */; };
 		1697A49F2941CC4F00C98E0C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1697A49E2941CC4F00C98E0C /* Preview Assets.xcassets */; };
+		1697A4A62941CC6D00C98E0C /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4A52941CC6D00C98E0C /* ContentView2.swift */; };
+		1697A4A82941CCB600C98E0C /* ContentviewIknow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4A72941CCB600C98E0C /* ContentviewIknow.swift */; };
+		1697A4AA2941CCD200C98E0C /* Ncontentview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4A92941CCD200C98E0C /* Ncontentview.swift */; };
+		1697A4AC2941CCF800C98E0C /* ContentViewB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4AB2941CCF800C98E0C /* ContentViewB.swift */; };
+		1697A4AE2941CD1600C98E0C /* glob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4AD2941CD1600C98E0C /* glob.swift */; };
+		1697A4B02941CD3200C98E0C /* Loginview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4AF2941CD3200C98E0C /* Loginview.swift */; };
+		1697A4B22941CD4800C98E0C /* ContentViewC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4B12941CD4800C98E0C /* ContentViewC.swift */; };
+		1697A4B42941CD5A00C98E0C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4B32941CD5A00C98E0C /* Home.swift */; };
+		1697A4B62941CD7000C98E0C /* ViewRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4B52941CD7000C98E0C /* ViewRouter.swift */; };
+		1697A4B82941CD7E00C98E0C /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4B72941CD7E00C98E0C /* Helper.swift */; };
+		1697A4BA2941CD9600C98E0C /* SwiftUIquiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4B92941CD9600C98E0C /* SwiftUIquiz.swift */; };
+		1697A4BC2941CDB200C98E0C /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4BB2941CDB200C98E0C /* ScoreView.swift */; };
+		1697A4BE2941CDC200C98E0C /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4BD2941CDC200C98E0C /* Question.swift */; };
+		1697A4C02941CDD800C98E0C /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1697A4BF2941CDD800C98E0C /* CircularProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1697A4942941CC4E00C98E0C /* Swiftquiz1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftquiz1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1697A4972941CC4E00C98E0C /* Swiftquiz1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swiftquiz1App.swift; sourceTree = "<group>"; };
 		1697A4992941CC4E00C98E0C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1697A49B2941CC4F00C98E0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1697A49E2941CC4F00C98E0C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1697A4A52941CC6D00C98E0C /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
+		1697A4A72941CCB600C98E0C /* ContentviewIknow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentviewIknow.swift; sourceTree = "<group>"; };
+		1697A4A92941CCD200C98E0C /* Ncontentview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ncontentview.swift; sourceTree = "<group>"; };
+		1697A4AB2941CCF800C98E0C /* ContentViewB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewB.swift; sourceTree = "<group>"; };
+		1697A4AD2941CD1600C98E0C /* glob.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = glob.swift; sourceTree = "<group>"; };
+		1697A4AF2941CD3200C98E0C /* Loginview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loginview.swift; sourceTree = "<group>"; };
+		1697A4B12941CD4800C98E0C /* ContentViewC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewC.swift; sourceTree = "<group>"; };
+		1697A4B32941CD5A00C98E0C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		1697A4B52941CD7000C98E0C /* ViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRouter.swift; sourceTree = "<group>"; };
+		1697A4B72941CD7E00C98E0C /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		1697A4B92941CD9600C98E0C /* SwiftUIquiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIquiz.swift; sourceTree = "<group>"; };
+		1697A4BB2941CDB200C98E0C /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
+		1697A4BD2941CDC200C98E0C /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		1697A4BF2941CDD800C98E0C /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +77,21 @@
 		1697A4962941CC4E00C98E0C /* Swiftquiz1 */ = {
 			isa = PBXGroup;
 			children = (
-				1697A4972941CC4E00C98E0C /* Swiftquiz1App.swift */,
+				1697A4A52941CC6D00C98E0C /* ContentView2.swift */,
 				1697A4992941CC4E00C98E0C /* ContentView.swift */,
+				1697A4A72941CCB600C98E0C /* ContentviewIknow.swift */,
+				1697A4A92941CCD200C98E0C /* Ncontentview.swift */,
+				1697A4AB2941CCF800C98E0C /* ContentViewB.swift */,
+				1697A4AD2941CD1600C98E0C /* glob.swift */,
+				1697A4AF2941CD3200C98E0C /* Loginview.swift */,
+				1697A4B12941CD4800C98E0C /* ContentViewC.swift */,
+				1697A4B32941CD5A00C98E0C /* Home.swift */,
+				1697A4B52941CD7000C98E0C /* ViewRouter.swift */,
+				1697A4B72941CD7E00C98E0C /* Helper.swift */,
+				1697A4B92941CD9600C98E0C /* SwiftUIquiz.swift */,
+				1697A4BB2941CDB200C98E0C /* ScoreView.swift */,
+				1697A4BD2941CDC200C98E0C /* Question.swift */,
+				1697A4BF2941CDD800C98E0C /* CircularProgressView.swift */,
 				1697A49B2941CC4F00C98E0C /* Assets.xcassets */,
 				1697A49D2941CC4F00C98E0C /* Preview Content */,
 			);
@@ -137,8 +176,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1697A4B82941CD7E00C98E0C /* Helper.swift in Sources */,
+				1697A4A82941CCB600C98E0C /* ContentviewIknow.swift in Sources */,
+				1697A4AA2941CCD200C98E0C /* Ncontentview.swift in Sources */,
+				1697A4B02941CD3200C98E0C /* Loginview.swift in Sources */,
+				1697A4BA2941CD9600C98E0C /* SwiftUIquiz.swift in Sources */,
+				1697A4BE2941CDC200C98E0C /* Question.swift in Sources */,
+				1697A4AC2941CCF800C98E0C /* ContentViewB.swift in Sources */,
+				1697A4B42941CD5A00C98E0C /* Home.swift in Sources */,
+				1697A4B62941CD7000C98E0C /* ViewRouter.swift in Sources */,
+				1697A4AE2941CD1600C98E0C /* glob.swift in Sources */,
+				1697A4A62941CC6D00C98E0C /* ContentView2.swift in Sources */,
+				1697A4B22941CD4800C98E0C /* ContentViewC.swift in Sources */,
+				1697A4BC2941CDB200C98E0C /* ScoreView.swift in Sources */,
+				1697A4C02941CDD800C98E0C /* CircularProgressView.swift in Sources */,
 				1697A49A2941CC4E00C98E0C /* ContentView.swift in Sources */,
-				1697A4982941CC4E00C98E0C /* Swiftquiz1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

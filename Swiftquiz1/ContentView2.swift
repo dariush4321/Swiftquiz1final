@@ -1,9 +1,7 @@
-
-
 import SwiftUI
 
 
-struct ContentView: View {
+struct ContentView2: View {
     @EnvironmentObject var viewRouter: ViewRouter
     @State private var isAlertPresented = false
     @State private var isCorrect = false
@@ -12,7 +10,7 @@ struct ContentView: View {
     @State private var correctAnswers = 0
     @ObservedObject var glob = Glob()
     
-    var questions = [Question(title: "Taxonomy includes...",
+    var questions = [Question(title: "Civil includes...",
                               option1: "All life",
                               option2: "Robots",
                               option3: "Cyborgs",
@@ -151,8 +149,8 @@ struct ContentView: View {
     
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ContentView2_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView().environmentObject(ViewRouter())
+        ContentView2().environmentObject(ViewRouter())
     }
 }
